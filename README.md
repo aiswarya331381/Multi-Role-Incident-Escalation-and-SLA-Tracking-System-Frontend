@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Incident Escalation & SLA Tracking System (Frontend)
 
 ## Project Overview
@@ -166,3 +167,6 @@ This project demonstrates:
 ## Author
 
 Frontend implementation created as part of a **React-based incident management system prototype**.
+=======
+# Multi-Role-Incident-Escalation-and-SLA-Tracking-System-Frontend
+>>>>>>> 3d0b2e93b044d51bad9956f8d42dd9fee95651ce
